@@ -1,21 +1,24 @@
 <div class="g4">
-  <div class="wheelbox">
-    <svg class="pointer" viewBox="0 0 60 60" aria-hidden="true"><path d="M8 6 H52 L30 54 Z" fill="#E5484D" stroke="#0E4B5A" stroke-width="5" stroke-linejoin="round"/></svg>
-    <svg id="wheel" viewBox="0 0 400 400" aria-label="Picture wheel"></svg>
-    <button class="btn go" id="spin">Spin</button>
+  <div class="boxwrap">
+    <div class="board" id="board">
+      <div class="under" id="under"><span class="qm">?</span></div>
+    </div>
+    <button class="btn go" id="deal">Start</button>
   </div>
   <div class="side card">
     <div id="who"></div>
-    <div class="pic" id="pic"><span class="qm">?</span></div>
     <div class="steps">
       <div class="step" id="s1"><b>1</b><span>Tell your friend</span><span class="barwrap"><i id="bar"></i></span></div>
       <div class="step" id="s2"><b>2</b><span>Your team says it</span></div>
     </div>
+    <div class="hint" id="hint"></div>
     <div class="phrase" id="line">&nbsp;</div>
     <div class="row">
+      <button class="btn small" id="reveal" disabled>Pop all</button>
       <button class="btn small" id="show" disabled>Show the line</button>
       <button class="btn good mark" id="yes" disabled aria-label="Give the point"><svg viewBox="0 0 60 60"><path d="M12 32 L26 46 L50 16" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
       <button class="btn bad mark" id="no" disabled aria-label="No point"><svg viewBox="0 0 60 60"><path d="M15 15 L45 45 M45 15 L15 45" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round"/></svg></button>
     </div>
   </div>
 </div>
+
