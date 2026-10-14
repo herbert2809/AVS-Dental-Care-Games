@@ -2,7 +2,7 @@ const GAMES = [
   ['game1-good-or-bad.html', 'toothHappy', 'Good or Bad for Your Teeth?', 'Game 1, lead-in'],
   ['game2-listen-and-tap.html', 'ear', 'Listen and Tap', 'Game 2, presentation'],
   ['game3-happy-or-sad-tooth.html', 'toothSad', 'Happy Tooth or Sad Tooth?', 'Game 3, practice'],
-  ['game4-spin-and-say.html', 'sun', 'Spin and Say', 'Game 4, practice'],
+  ['game4-pop-and-say.html', 'sun', 'Pop and Say', 'Game 4, practice'],
   ['game5-lucky-tooth.html', 'star', 'Lucky Tooth', 'Game 5, production'],
   ['timer.html', 'calendar', 'Timer', '4 minutes for the poster'],
 ];
