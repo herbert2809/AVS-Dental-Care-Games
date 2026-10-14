@@ -10,7 +10,7 @@ PAGES = [
     ('g1', 'game1-good-or-bad.html', 'Good or Bad for Your Teeth?', 'The team chooses a number. The teacher taps the team\'s answer.', True),
     ('g2', 'game2-listen-and-tap.html', 'Listen and Tap', 'The teacher says the phrase. One student taps the picture.', True),
     ('g3', 'game3-happy-or-sad-tooth.html', 'Happy Tooth or Sad Tooth?', 'The class says the phrase. One player taps a tooth.', True),
-    ('g4', 'game4-spin-and-say.html', 'Spin and Say', 'Spin, tell your friend, then the team says it. Tick gives the point.', True),
+    ('g4', 'game4-pop-and-say.html', 'Pop and Say', 'Pop the bubbles, tell your friend, then the team says it. Tick gives the point.', True),
     ('g5', 'game5-lucky-tooth.html', 'Lucky Tooth', 'The team chooses a tooth, shows its poster and says the sentence.', True),
     ('timer', 'timer.html', 'Timer', 'Four minutes to make the poster.', False),
 ]
