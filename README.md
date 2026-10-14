@@ -11,7 +11,7 @@ The games are made for one shared screen and four teams: Red, Blue, Green and Ye
 | `game1-good-or-bad.html` | Good or Bad for Your Teeth? Eight numbered tiles | Lead-in |
 | `game2-listen-and-tap.html` | Listen and Tap. Four listening questions | Presentation |
 | `game3-happy-or-sad-tooth.html` | Happy Tooth or Sad Tooth? Eight cards to sort | Practice |
-| `game4-spin-and-say.html` | Spin and Say. A wheel with eight pictures | Practice |
+| `game4-pop-and-say.html` | Pop and Say. Pop the bubbles to show one of eight pictures | Practice |
 | `game5-lucky-tooth.html` | Lucky Tooth. Four teeth, one for each team | Production |
 | `timer.html` | Countdown timer, set to 4 minutes | Production |
 
